@@ -1,0 +1,36 @@
+Joueur_2 est IA: Overhaul
+*-------------------La manche 1 commence-----------------------*
+$ joueur_2 joue :4
+$ joueur_2 joue :7
+$ joueur_2 joue :5
+$ joueur_2 joue :5
+$ joueur_2 joue :6
+$ joueur_2 joue :4
+$ joueur_2 joue :4
+$ joueur_2 joue :4
+$ joueur_2 joue :7
+$ joueur_2 joue :3
+$ joueur_2 joue :1
+$ joueur_2 joue :1
+$ joueur_2 joue :2
+$ joueur_2 joue :5
+$ joueur_2 joue :2
+$ joueur_2 joue :2
+$ joueur_2 joue :6
+$ joueur_2 joue :2
+$ joueur_2 joue :7
+$ joueur_2 joue :6
+$ joueur_2 joue :2
+$ joueur_2 joue :5
+$ joueur_2 joue :7
+$ joueur_2 joue :3
+$ joueur_2 joue :1
+$ joueur_2 joue :2
+$ joueur_2 joue :6
+$ joueur_2 joue :4
+$ joueur_2 joue :4
+$ joueur_2 joue :6
+$ joueur_2 joue :5
+Victoire de  la manche 1 par Overhaul
+Le score est de 1-0 en faveur de Overhaul
+Victoire de la partie  par  Overhaul sur un score de 1-0
